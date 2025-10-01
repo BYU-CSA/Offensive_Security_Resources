@@ -1,2 +1,2 @@
-# Penetration_Testing_Resources
-This repository contains the resources and information from our Penetration Testing Emphasis. 
+# Offensive_Security_Resources
+This repository contains the resources and information from our Offensive Security Emphasis. 
